@@ -5,8 +5,5 @@
 
 display:grid;
 grid-template-columns:repeat(2,200px);	
-	grid-template-rows:repeat(2,200px);
-}
-.item{
-	border:2px solid black;
+grid-template-rows:repeat(2,200px);
 }
