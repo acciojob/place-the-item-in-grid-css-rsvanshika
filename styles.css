@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.container{
+width:200px;
+
+display:grid;
+grid-template-columns:auto auto;	
+}
