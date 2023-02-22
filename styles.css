@@ -1,8 +1,11 @@
 
 /* Your CSS Code here. */
 .holder{
-width:200px;
+
 
 display:grid;
-grid-template-columns:auto auto;	
+grid-template-columns:repeat(2,200px);	
+}
+.item{
+	border:2px solid black;
 }
