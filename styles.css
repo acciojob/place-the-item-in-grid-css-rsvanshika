@@ -4,6 +4,12 @@
 display:grid;
 grid-template-columns:repeat(2,200px);	
 grid-template-rows:repeat(2,200px);
+/* 	width:200px;
+	height:200px; */
+	
+}
+.item{
+	border:1px solid black;
 }
 /* .item{
 	border:1px solid black;
